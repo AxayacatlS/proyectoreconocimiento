@@ -45,7 +45,7 @@
       <a-entity
         gltf-model="terreno.glb"
         scale="120 120 120"
-        position="0 0 -50"
+        position="-20 0 -50"
         >
       </a-entity>
     </a-nft>
