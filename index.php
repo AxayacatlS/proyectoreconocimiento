@@ -44,7 +44,7 @@
     >
       <a-entity
         gltf-model="terreno.glb"
-        scale="5 5 5"
+        scale="10 10 10"
         position="50 150 0"
         >
       </a-entity>
